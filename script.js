@@ -155,7 +155,7 @@ Strict Rules:
         });
 
         const requestBody = {
-            model: "mixtral-8x7b-32768", // Fast and reliable Groq model
+            model: "llama-3.3-70b-versatile", // Latest supported Groq model
             messages: messages,
             temperature: 0.7,
             max_tokens: 1000,
