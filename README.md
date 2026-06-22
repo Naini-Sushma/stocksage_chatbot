@@ -32,9 +32,8 @@ StockSage is built on a simple, serverless foundation:
    git clone https://github.com/Naini-Sushma/stocksage_chatbot.git
 
 2. Open the project folder and start a local development server:
-   bash
-   npm install
-   npm run dev
+  npm install
+  npm run dev
 3. Open the provided localhost URL in your browser to start chatting!
  
 ⚠️ Disclaimer
