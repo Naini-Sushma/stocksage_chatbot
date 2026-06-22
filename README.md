@@ -25,17 +25,6 @@ StockSage is built on a simple, serverless foundation:
 - **AI Integration:** Groq API (REST integration)
 - **Deployment:** Vercel
 
-## ⚙️ How to Run Locally
-
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/Naini-Sushma/stocksage_chatbot.git
-
-2. Open the project folder and start a local development server:
-  npm install
-  npm run dev
-3. Open the provided localhost URL in your browser to start chatting!
- 
 ⚠️ Disclaimer
 StockSage is for educational purposes only and does not provide investment advice.
 
