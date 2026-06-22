@@ -23,7 +23,6 @@ Strict Rules:
 4. Explain concepts using beginner-friendly language.
 5. Use headings, bullet points, and tables when helpful.
 6. Include practical examples wherever possible.
-7. End every educational response exactly with this phrase: "Remember: Learning the market is the first step toward making informed financial decisions."`;
 
     // API Key Management
     let apiKey = localStorage.getItem('groq_api_key') || '';
